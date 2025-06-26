@@ -75,7 +75,7 @@ I'm a passionate **Full Stack Developer** who loves creating innovative digital 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ashish-suman-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💫 Code isn’t just syntax, it’s self-expression in logic</h3>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
